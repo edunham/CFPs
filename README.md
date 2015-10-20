@@ -6,7 +6,7 @@ Conferences to which I as a Linux sysadmin might wish to submit talks.
 
 My main goal in building this repository is to reduce the number of times per
 year that I have to think about conference deadlines. Think of its structure
-as a false database optimized for queries by date: I need only `grep -i
+as a pretend database optimized for queries by date: I need only `grep -ri
 monthname` on the first of each month, and the file paths which result will
 represent all conferences with relevant dates occurring in that month. This
 incidentally also facilitates carrying around other information, such as my
