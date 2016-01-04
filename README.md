@@ -20,3 +20,11 @@ you wish in your own fork. I'll accept pull requests if they:
 * Are formatted consistently with the rest of the repo
 * Represent conferences which interest me
 * Or add interesting tooling which includes documentation and unit tests.
+
+# Other stuff: 
+
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking) has many
+  useful links
+* [the CFP report](https://thecfpreport.com/) is basically this repo but
+  better
+
